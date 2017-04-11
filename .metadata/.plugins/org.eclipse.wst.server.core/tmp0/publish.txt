@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Apr 11 14:07:22 CEST 2017
+org.eclipse.jst.j2ee.server\:article=F\:\\ARCHI_N_TIERS\\Logiciels\\apache-tomcat-8.0.30\\wtpwebapps\\restapi\\WEB-INF\\lib\\article-1.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:restapi=F\:\\ARCHI_N_TIERS\\Logiciels\\apache-tomcat-8.0.30\\wtpwebapps\\restapi
+org.eclipse.jst.j2ee.server\:commande=F\:\\ARCHI_N_TIERS\\Logiciels\\apache-tomcat-8.0.30\\wtpwebapps\\restapi\\WEB-INF\\lib\\commande-1.0.0-SNAPSHOT.jar
